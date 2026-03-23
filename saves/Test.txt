@@ -1,0 +1,17 @@
+turn:white
+board:
+bR,bN,bB,bQ,bK,bB,bN,bR
+bp,bp,bp,bp,bp,bp,bp,bp
+  ,##,  ,##,  ,##,  ,##
+##,  ,##,  ,##,  ,##,  
+  ,##,  ,wp,  ,##,  ,##
+##,  ,##,  ,##,  ,##,  
+wp,wp,wp,##,wp,wp,wp,wp
+wR,wN,wB,wQ,wK,wB,wN,wR
+whiteCastle:true,true
+blackCastle:true,true
+whitePassant:false,false,false,false,false,false,false,false
+blackPassant:false,false,false,false,false,false,false,false
+halfMoveClock:0
+moves:1
+move:d2d4|wp|##|6,3|4,3|true|false||false||false|-1,-1|-1,-1|-1,-1
